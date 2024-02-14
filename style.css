@@ -22,7 +22,7 @@
     background-color: rgb(105, 56, 33);
     border: none;
     height: 200px;
-    padding: 80px 14px 60px 7px;
+    padding: 80px 15px 60px 7px;
     margin: 0px 0px 0px 0px;
 }
 
@@ -85,7 +85,7 @@ button{
     background-color: aliceblue;
     color: rgb(12, 12, 12);
     padding: 10px 25px 10px 25px;
-    margin: 15px 0px 20px 140px;
+    margin: 15px 0px 20px 130px;
     cursor: pointer;
 }
 
