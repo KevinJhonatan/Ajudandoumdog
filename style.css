@@ -1,0 +1,93 @@
+#saveManolo{
+    padding-left: 20px;
+    margin: 0px 900px 0px 0px;
+    background-color: rgb(36, 36, 126);
+    color: aliceblue;
+}
+
+#photoDog{
+    background-color: rgb(105, 56, 33);
+    border: none;
+    height: 200px;
+    padding: 80px 20px 60px 20px;
+    margin: 0px 0px 0px 0px;
+}
+
+#cutePhoto{
+    background-color: rgb(105, 56, 33);
+    border: none;
+    height: 200px;
+    padding: 80px 17px 60px 20px;
+    margin: 0px 0px 0px 0px;
+}
+
+#depoiment{
+    background-color: rgb(36, 36, 126);
+    border: none;
+    color: aliceblue;
+    margin: 0px 900px 0px 0px;
+}
+
+#zap{
+    background-color: rgb(28, 233, 106);
+}
+
+#contact{
+    background-color: rgb(105, 56, 33) ;
+    color: aliceblue;
+    margin: 0px 900px 0px 0px;
+}
+
+#dadSon{
+    background-color: rgb(105, 56, 33) ;
+    margin: 10px 0px 0px 25px;   
+    height: 200px;
+}
+
+#howHow{
+    background-color: rgb(105, 56, 33) ;
+    
+    margin: 30px 0px 0px 0px;
+    height: 200px;
+    margin: 0px 0px 0px 0px;
+}
+
+#hot{
+    background-color: rgb(105, 56, 33) ;
+    margin: 30px 0px 0px 0px;
+    
+    height: 150px;
+    margin: 0px 0px 0px 25px;
+}
+
+#meta{
+    background-color: rgb(36, 36, 126);
+    color: aliceblue;
+    margin: 0px 900px 0px 0px;
+    padding-left: 20px;
+}
+
+#social{
+    background-color: rgb(105, 56, 33);
+    margin: 0px 900px 0px 0px;
+}
+
+button{
+    background-color: aliceblue;
+    color: rgb(12, 12, 12);
+    padding: 10px 25px 10px 25px;
+    margin: 15px 0px 20px 140px;
+    cursor: pointer;
+}
+
+button:hover{
+    box-shadow: 0px 7px 7px 0px;
+    transition-duration: 1s;
+    background-position-y: -7px;
+}
+
+#all{
+    font-family: "Galindo", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
