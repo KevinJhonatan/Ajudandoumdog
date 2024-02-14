@@ -1,6 +1,6 @@
 #saveManolo{
     padding-left: 20px;
-    margin: 0px 900px 0px 0px;
+    margin: 0px 100px 0px 0px;
     background-color: rgb(36, 36, 126);
     color: aliceblue;
 }
@@ -25,7 +25,7 @@
     background-color: rgb(36, 36, 126);
     border: none;
     color: aliceblue;
-    margin: 0px 900px 0px 0px;
+    margin: 0px 100px 0px 0px;
 }
 
 #zap{
@@ -35,7 +35,7 @@
 #contact{
     background-color: rgb(105, 56, 33) ;
     color: aliceblue;
-    margin: 0px 900px 0px 0px;
+    margin: 0px 100px 0px 0px;
 }
 
 #dadSon{
@@ -63,13 +63,13 @@
 #meta{
     background-color: rgb(36, 36, 126);
     color: aliceblue;
-    margin: 0px 900px 0px 0px;
+    margin: 0px 100px 0px 0px;
     padding-left: 20px;
 }
 
 #social{
     background-color: rgb(105, 56, 33);
-    margin: 0px 900px 0px 0px;
+    margin: 0px 100px 0px 0px;
 }
 
 button{
