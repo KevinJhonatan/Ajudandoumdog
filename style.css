@@ -14,7 +14,7 @@
     background-color: rgb(105, 56, 33);
     border: none;
     height: 200px;
-    padding: 80px 20px 60px 20px;
+    padding: 80px 20px 60px 0px;
     margin: 0px 0px 0px 0px;
 }
 
@@ -43,9 +43,14 @@
     margin: 0px 0px 0px 0px;
 }
 
+#final{
+    display: grid;
+    grid-auto-flow: column;
+}
+
 #dadSon{
     background-color: rgb(105, 56, 33) ;
-    margin: 10px 0px 0px 25px;   
+    margin: 10px 0px 0px 12px;   
     height: 200px;
 }
 
@@ -60,9 +65,8 @@
 #hot{
     background-color: rgb(105, 56, 33) ;
     margin: 10px 0px 0px 0px;
-    
     height: 150px;
-    margin: 0px 0px 0px 25px;
+    margin: 0px 0px 0px 15px;
 }
 
 #meta{
